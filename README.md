@@ -7,6 +7,9 @@ Gesture Controlled Virtual Mouse makes human computer interaction simple by maki
 procedure: 
 
 *step1: conda create --name gest python=3.8.5
+
 *step2: conda activate gest
+
 *step3: pip install -r requirements.txt
+
 *step4: Run Gesture_Controller.py
